@@ -1,3 +1,3 @@
 # AWS VPC Terraform
 
-![](images/Project-18.png)
+![](images/image1)
