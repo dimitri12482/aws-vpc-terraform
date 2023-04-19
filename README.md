@@ -1,4 +1,4 @@
-# AWS VPC Terraform
+# AWS VPC with Subnet using Terraform
 
 This project focus on designing virtual private cloud that contain private, public subnet and route table to connected to internet gateaway in AWS.
 
