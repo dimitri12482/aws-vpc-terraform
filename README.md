@@ -25,7 +25,7 @@ access key and sercet password.
 
 Create a directory on to your local computer and 
 open up VS Code and then create a terraform
-file called "vpc.tf" and "provider.tf". 
+file called `vpc.tf` and `provider.tf`. 
 
 ## Step 3
 
